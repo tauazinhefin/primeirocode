@@ -1,0 +1,19 @@
+.p-hello{
+    color: red;
+    text-align: center;
+}
+.p-verde{
+    color: green;
+}
+body{
+    background-color: blueviolet;
+}
+.p-hello:hover {
+    color: blue;
+}
+.bnt-click{
+    width:200px;
+    height: 200px;
+    border: 2px solid pink;
+    border-radius: 50%;
+}
